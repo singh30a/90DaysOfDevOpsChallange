@@ -1,0 +1,3 @@
+Check your present working directory.COMMAND pwd
+List all the files or directories including hidden files.COMMAND ls-a
+Create a nested directory A/B/C/D/E COMMAND mkdir A B 
