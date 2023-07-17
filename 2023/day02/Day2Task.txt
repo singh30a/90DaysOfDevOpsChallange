@@ -1,0 +1,3 @@
+1Check your present working directory.->pwd
+2List all the files or directories including hidden files.->ls -a
+3Create a nested directory A/B/C/D/E.->mkdir -p A/B/C/D/E
